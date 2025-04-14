@@ -262,3 +262,5 @@ Clean-DiskSpace
 Write-Host "============================================"
 Write-Host "All maintenance and update tasks are completed."
 Write-Host "============================================"
+
+Start-Sleep -Seconds 1800
